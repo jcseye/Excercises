@@ -3,6 +3,10 @@ body {
   color: #d5e3ff;
   font-family: Verdana, Arial, sans-serif;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> spring2016webdevfun/master
 h1 {
   line-height: 200%;
 }
@@ -10,16 +14,26 @@ h1 {
 nav {
   font-weight: bold;
 }
+<<<<<<< HEAD
 a {
   text-decoration:none;
 }
 .category{
+=======
+
+.category {
+>>>>>>> spring2016webdevfun/master
   font-weight: bold;
   background-color: #6699ff;
   color: #003366;
   font-size: 1.1em;
 }
 
+<<<<<<< HEAD
 footer{
   font-size: .70em
+=======
+footer {
+  font-size: .7em;
+>>>>>>> spring2016webdevfun/master
 }
